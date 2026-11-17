@@ -1,6 +1,6 @@
 {
-  "name": "福耳会掲示板",
-  "short_name": "掲示板",
+  "name": "HUKU BASE",
+  "short_name": "HUKU BASE",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f6f7f5",
